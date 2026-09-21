@@ -10,7 +10,7 @@ Place the downloaded file at `data/raw/online_retail_II.csv`.
 
 # 🔍 Model Stress-Test & Failure Catalog
 
-Most portfolios stop at reporting a model's accuracy or recall. This one doesn't trust that number — it deliberately goes looking for where the [order-cancellation classifier from a previous project](../eda-deep-dive-online-retail) breaks, and documents exactly why.
+Most portfolios stop at reporting a model's accuracy or recall. This one doesn't trust that number — it deliberately goes looking for where the [order-cancellation classifier from a previous project](https://github.com/sidv11/eda-deep-dive-online-retail) breaks, and documents exactly why.
 
 ## The headline finding
 
