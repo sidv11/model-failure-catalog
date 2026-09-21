@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+test_notebook.ipynb
+test_executed.ipynb
+test_predictions_analysis.csv
